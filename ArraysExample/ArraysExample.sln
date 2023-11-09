@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysExample", "ArraysExample\ArraysExample.csproj", "{FBBFD366-83F7-49D3-AC0A-21002DC0D3BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee", "Employee\Employee.csproj", "{FF5CCB50-E1DE-408E-AF94-217E07EDD1CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBBFD366-83F7-49D3-AC0A-21002DC0D3BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBBFD366-83F7-49D3-AC0A-21002DC0D3BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBBFD366-83F7-49D3-AC0A-21002DC0D3BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBBFD366-83F7-49D3-AC0A-21002DC0D3BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF5CCB50-E1DE-408E-AF94-217E07EDD1CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF5CCB50-E1DE-408E-AF94-217E07EDD1CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF5CCB50-E1DE-408E-AF94-217E07EDD1CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF5CCB50-E1DE-408E-AF94-217E07EDD1CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {360357AE-9EC5-4CCB-B0E6-9BC9D357A6DC}
+	EndGlobalSection
+EndGlobal

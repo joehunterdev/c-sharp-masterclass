@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JoeBank.Presentation", "JoeBank.Presentation\JoeBank.Presentation.csproj", "{777FC759-7450-4251-980A-8EC82AAEC4BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoeBank.Entities", "JoeBank.Entities\JoeBank.Entities.csproj", "{63F7285A-2A67-4EB8-BEAC-BDA2CFC82421}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoeBank.DataAccesLayer", "JoeBank.DataAccesLayer\JoeBank.DataAccesLayer.csproj", "{05F7983A-6A7F-4D5D-BBA3-708C682CEE3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoeBank.BusinessLogicLayer", "JoeBank.BusinessLogicLayer\JoeBank.BusinessLogicLayer.csproj", "{33B1ECF9-709C-4609-A0FB-CCA171BCA18B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoeBank.Configuration", "JoeBank.Configuration\JoeBank.Configuration.csproj", "{269551B3-D8C6-4754-9C97-78E974FF3813}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoeBank.Exceptions", "JoeBank.Exceptions\JoeBank.Exceptions.csproj", "{6F15F97A-3CB1-4944-A328-ED34C2AF6293}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{777FC759-7450-4251-980A-8EC82AAEC4BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{777FC759-7450-4251-980A-8EC82AAEC4BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{777FC759-7450-4251-980A-8EC82AAEC4BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{777FC759-7450-4251-980A-8EC82AAEC4BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63F7285A-2A67-4EB8-BEAC-BDA2CFC82421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F7285A-2A67-4EB8-BEAC-BDA2CFC82421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F7285A-2A67-4EB8-BEAC-BDA2CFC82421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F7285A-2A67-4EB8-BEAC-BDA2CFC82421}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05F7983A-6A7F-4D5D-BBA3-708C682CEE3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05F7983A-6A7F-4D5D-BBA3-708C682CEE3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05F7983A-6A7F-4D5D-BBA3-708C682CEE3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05F7983A-6A7F-4D5D-BBA3-708C682CEE3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33B1ECF9-709C-4609-A0FB-CCA171BCA18B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33B1ECF9-709C-4609-A0FB-CCA171BCA18B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33B1ECF9-709C-4609-A0FB-CCA171BCA18B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33B1ECF9-709C-4609-A0FB-CCA171BCA18B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{269551B3-D8C6-4754-9C97-78E974FF3813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{269551B3-D8C6-4754-9C97-78E974FF3813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{269551B3-D8C6-4754-9C97-78E974FF3813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{269551B3-D8C6-4754-9C97-78E974FF3813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F15F97A-3CB1-4944-A328-ED34C2AF6293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F15F97A-3CB1-4944-A328-ED34C2AF6293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F15F97A-3CB1-4944-A328-ED34C2AF6293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F15F97A-3CB1-4944-A328-ED34C2AF6293}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C981EF95-C65F-41EC-AB8E-72EEB6D0E515}
+	EndGlobalSection
+EndGlobal

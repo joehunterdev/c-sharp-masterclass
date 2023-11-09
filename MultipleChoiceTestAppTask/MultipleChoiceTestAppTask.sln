@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleChoiceTestAppTask", "MultipleChoiceTestAppTask\MultipleChoiceTestAppTask.csproj", "{71717E52-972B-4C06-B357-F76A648142BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71717E52-972B-4C06-B357-F76A648142BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71717E52-972B-4C06-B357-F76A648142BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71717E52-972B-4C06-B357-F76A648142BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71717E52-972B-4C06-B357-F76A648142BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F8AF78A-A537-444F-AD6D-84904279E52F}
+	EndGlobalSection
+EndGlobal
