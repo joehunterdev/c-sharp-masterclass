@@ -1,4 +1,4 @@
-# C# OOP Ultimate Guide Project Master Class 💻 📚 📝
+# C# Ultimate Guide Project Master Class 💻 📚 📝
 Welcome to the c# master class notes. Nothing here but lovingly crafted notes for personal use. Summarized and formatted by yours truly. A highly recommended [C# Masterclass - Harsha Vardhan](https://www.udemy.com/course/c-sharp-oop-ultimate-guide-project-master-class/) for anyone interested in c#.
 
 - What 🤔:
